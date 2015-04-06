@@ -1,0 +1,24 @@
+Explanation of params
+query_obj:fg+bg_0.1
+feat_detr:-hesaff
+feat_desc:-rootsift -noangle
+clustering:akmeans
+K:1000000
+num_samps:100000000
+iter:50
+video_sampling:1
+frame_sampling:1
+knn:3
+delta_sqr:6250
+db_agg:avg_pooling
+vocab:full
+trim:notrim
+freq:clip
+weight:idf
+norm:nonorm
+query_knn:3
+query_delta_sqr:6250
+query_num:-1
+query_agg:dist_avg
+dist:l2_ivf
+run_prefix:R2014-TiepNo1

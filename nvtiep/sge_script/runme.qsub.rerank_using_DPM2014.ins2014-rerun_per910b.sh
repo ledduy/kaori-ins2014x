@@ -1,0 +1,15 @@
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM2014.sgejob.sh 1 67 9121 9124 &
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM2014.sgejob.sh 68 134 9121 9124 &
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM2014.sgejob.sh 135 201 9121 9124 &
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM2014.sgejob.sh 202 268 9121 9124 &
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM2014.sgejob.sh 269 335 9121 9124 &
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM2014.sgejob.sh 336 402 9121 9124 &
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM2014.sgejob.sh 403 469 9121 9124 &
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM2014.sgejob.sh 470 536 9121 9124 &
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM2014.sgejob.sh 537 603 9121 9124 &
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM2014.sgejob.sh 604 670 9121 9124 &
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM2014.sgejob.sh 671 737 9121 9124 &
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM2014.sgejob.sh 738 804 9121 9124 &
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM2014.sgejob.sh 805 871 9121 9124 &
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM2014.sgejob.sh 872 938 9121 9124 &
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM2014.sgejob.sh 939 1000 9121 9124 &

@@ -1,0 +1,18 @@
+﻿Cách dùng:
+1. generate_sgejob_final.m --> đây là code chính để sinh ra các file .sh
+tv_year: tv2014
+feature_id: surrey.soft.soft, surrey.hard.soft, CaizhiBest
+nindex: 1,000 (số lượng videos)
+ncoresperjob: 2 (2 cores/job)
+
+generate_sgejob_final('tv2014', 'surrey.soft.soft', 1000, 2)
+generate_sgejob_final('tv2014', 'surrey.hard.soft', 1000, 2)
+generate_sgejob_final('tv2014', 'CaizhiBest', 1000, 2)
+
+Có 3 tập tin .sh được sinh ra, 1 tập tin dùng để chạy trên grid, 1 tập tin chạy trên per910b, 1 tập tin chạy trên per910c.
+
+2. Các tập tin .sh ở trên sẽ gọi sge_script/rerank_using_DPM_final.sgejob.sh
+Đây là tập tin dùng để chạy trên grid, ví dụ chỉ định queue và các đường dẫn
+
+3. Tập tin sge_script/rerank_using_DPM_final.sgejob.sh sẽ gọi hàm chính là rerank_using_DPM_final.m 
+

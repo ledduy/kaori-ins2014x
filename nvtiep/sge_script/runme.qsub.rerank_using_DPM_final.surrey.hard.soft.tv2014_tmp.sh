@@ -1,0 +1,14 @@
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM_final.sgejob.sh surrey.hard.soft 565 567 9099 9120 &
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM_final.sgejob.sh surrey.hard.soft 568 570 9099 9120 &
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM_final.sgejob.sh surrey.hard.soft 571 573 9099 9120 &
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM_final.sgejob.sh surrey.hard.soft 574 576 9099 9120 &
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM_final.sgejob.sh surrey.hard.soft 577 579 9099 9120 &
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM_final.sgejob.sh surrey.hard.soft 580 582 9099 9120 &
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM_final.sgejob.sh surrey.hard.soft 583 585 9099 9120 &
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM_final.sgejob.sh surrey.hard.soft 586 588 9099 9120 &
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM_final.sgejob.sh surrey.hard.soft 589 591 9099 9120 &
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM_final.sgejob.sh surrey.hard.soft 592 594 9099 9120 &
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM_final.sgejob.sh surrey.hard.soft 595 597 9099 9120 &
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM_final.sgejob.sh surrey.hard.soft 598 600 9099 9120 &
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM_final.sgejob.sh surrey.hard.soft 601 603 9099 9120 &
+/net/per900c/raid0/ledduy/github-projects/kaori-ins2014/nvtiep/sge_script/rerank_using_DPM_final.sgejob.sh surrey.hard.soft 604 606 9099 9120 &
